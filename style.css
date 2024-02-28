@@ -1,0 +1,10 @@
+.rectangle{
+    height: 180px;
+    border: 2px solid black;
+}
+.upperDiv{
+    padding: 10px;
+}
+a{
+    color: black;
+}
